@@ -43,7 +43,7 @@
   <img align="center" src="https://img.shields.io/badge/-Gustavo-trindade?style=flat&color=darkblue&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://youtube.com/channel/UCgmVzoHZFUjayXijJcNWl2A" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Gustavo-UCgmVz?style=flat&color=darkblue&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-Gustavo-UCgmVz?style=flat&color=red&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
