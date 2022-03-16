@@ -5,7 +5,7 @@
 - 💻 Objective: Web Developer 
 - 💬 Tell me about: **JavaScript, HTML, CSS, SQLite, ReactJS**
 - 👨‍🎓 About me: I love playing guitar 🎸
-- 🤗 At work: I like to create group programming 💖
+- 🤗 At work: I like to group programming or pair-program 💖
 
 <br>
 
