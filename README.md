@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo&color=blue" alt="Profile views" /> </p>
 
 - 💻 Objective: Web Developer 
-- 💬 Tell me about: **JavaScript, HTML, CSS, SQLite, ReactJS**
+- 💬 Tell me about: **JavaScript, HTML, CSS, SQLite, ReactJS, NodeJS, Java**
 - 👨‍🎓 About me: I love playing guitar 🎸
 - 🤗 At work: I like to group programming or pair-program 💖
 
