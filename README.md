@@ -48,4 +48,5 @@
 </a>
 </p>
 
+![Snake animation](https://github.com/gutoo01/gutoo01/blob/output/github-contribution-grid-snake.svg)
 
