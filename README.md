@@ -2,8 +2,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Trindade</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo&color=blue" alt="Profile views" /> </p>
 
-- 💻 Objective: Web Developer 
-- 💬 Tell me about: **Typescript, HTML, CSS, SQLite, ReactJS, NodeJS, Java**
+- 💻 Objective: Fullstack 
+- 💬 Tell me about: **Typescript, SQLite, NextJS, Java**
 - 👨‍🎓 About me: I love playing guitar 🎸
 - 🤗 At work: I like to group programming or pair-program 💖
 
