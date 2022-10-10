@@ -1,17 +1,23 @@
 
 
+```ts
+import Developer from 'gutoo01';
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">Hey, nice to meet welcome my git</h1>
+class SobreMim extends Desenvolvedor {
+  nome  = 'Gustavo Trindade';
+  area  = 'Front-end';
+  local = 'Rio de Janeiro, Brasil';
+}
+```
+<div>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+</div>
+
+
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=gustavo&color=blue" alt="Profile views" /> </p>
 
-
 <div align="center">
-
-<!--   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=gutoo01&show_icons=true&theme=vision-friendly-dark" alt="gutoo01's stats"/> -->
-  [![gutoo01](https://github-readme-stats.vercel.app/api/top-langs/?username=gutoo01&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/gutoo01/)
-
-
 <a href="https://codepen.io/gutoo01" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gutoo01-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
