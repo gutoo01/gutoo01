@@ -27,9 +27,6 @@ class SobreMim extends Desenvolvedor {
 <a href="https://www.linkedin.com/in/gustavo-trindade01/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gustavo-trindade?style=flat&color=darkblue&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://youtube.com/channel/UCgmVzoHZFUjayXijJcNWl2A" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Gustavo-UCgmVz?style=flat&color=darkred&logo=youtube" alt="youtube"/>
-</a>
 </div>
 <div align="center" style="display: inline_block"><br>
   <code><img height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/></code>
