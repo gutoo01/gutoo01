@@ -18,7 +18,7 @@ class SobreMim extends Desenvolvedor {
 <p align="center"><img src="https://komarev.com/ghpvc/?username=gustavo&color=blue" alt="Profile views" /> </p>
 
 <div align="center">
-<a href="https://codepen.io/gutoo01" target="_blank">
+<a href="https://stackblitz.com/@gutoo01" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gutoo01-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/GuTrindade01" target="_blank">
