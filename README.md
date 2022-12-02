@@ -1,7 +1,7 @@
 
 
 ```ts
-import Developer from 'gutoo01';
+import Software analyst from 'gutoo01';
 
 class SobreMim extends Desenvolvedor {
   nome  = 'Gustavo Trindade';
