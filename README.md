@@ -5,7 +5,7 @@ import Software analyst from 'gutoo01';
 
 class SobreMim extends Desenvolvedor {
   nome  = 'Gustavo Trindade';
-  area  = 'Data Science';
+  area  = 'Discovering';
   local = 'Rio de Janeiro, Brasil';
 }
 ```
