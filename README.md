@@ -5,7 +5,7 @@ import Software analyst from 'gutoo01';
 
 class SobreMim extends Desenvolvedor {
   nome  = 'Gustavo Trindade';
-  area  = 'Discovering';
+  area  = 'Javascript fullstack';
   local = 'Rio de Janeiro, Brasil';
 }
 ```
